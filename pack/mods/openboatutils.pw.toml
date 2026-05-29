@@ -1,0 +1,13 @@
+name = "OpenBoatUtils"
+filename = "OpenBoatUtils-0.5.0+1.21.9-1.21.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kNtBiHzs/versions/NJEV58WC/OpenBoatUtils-0.5.0%2B1.21.9-1.21.11.jar"
+hash-format = "sha512"
+hash = "7b99635aac389930f5f99b2570ba9ac66e1686130c87eedab695bfa01f73afcaec751e99c40148806567fa8d79a997c57de444507a54a75c0c305bbf286abc98"
+
+[update]
+[update.modrinth]
+mod-id = "kNtBiHzs"
+version = "NJEV58WC"
