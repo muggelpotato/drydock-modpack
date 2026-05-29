@@ -1,6 +1,6 @@
 name = "Voxy Server Side"
 filename = "voxy-server-side-fabric.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/84zcagOb/versions/27xuJ82D/voxy-server-side-fabric.jar"

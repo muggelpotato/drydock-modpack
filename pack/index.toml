@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/modpack_defaults/options.txt"
+hash = "706782d86206f70bed22e0957a3a98189ee6aa98ebc22ac84922a8621ce05984"
+
+[[files]]
+file = "icon.png"
+hash = "4d8ccee71d35482e80d9fdd0b9f509c060e7a1ccb15a4300d9dd6b224fc61f94"
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "7749a788cd34e08e2280dc5e05db1bbf375d7a184d787f682f7df19709a754e3"
 metafile = true
@@ -17,12 +25,12 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "a06ef129798265e0d7249426fb0ed5c506725b0460dc3dfdb975b8978480895e"
+hash = "0d83a657f371b76bd18a09db1840885f5c765c3b861b12a0af62df3c6cc5bbf4"
 metafile = true
 
 [[files]]
 file = "mods/configmanager.pw.toml"
-hash = "7c70b21d6bc0fa34c3a06c57aadeb42b2a4b94905ad05c147f6e6b040c24fe24"
+hash = "a9d2c92ab54655cb245ce95dcaec0a622a798b0935c8bc70fb7aa3cfc66ca2e4"
 metafile = true
 
 [[files]]
@@ -42,12 +50,12 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "2f4334c909013c446b76c2de88ed149b890afc2daa8f9f32226a0579064bf790"
+hash = "8fdb892ec88f2b9e43e1f5b7f7777e61fb2b1591715e39050bd6357c50245d53"
 metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "b6be9ab228ce37dfd2f0f05364ca24ba143d86bac31e25b9f03ab7750f2fceb4"
+hash = "7ec19f705fc55d4172d98085fb22ead874ca366f3ac1cc0546204fce7f1d4807"
 metafile = true
 
 [[files]]
@@ -67,22 +75,22 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "2ccce9c28059ea90a5457771de06a69b0a2d1f06d48f8add48a38f1a2307da3c"
+hash = "36d692a53999ad3ecebb0bf95d0614484405bdba65886b2e8fbde5599d073f57"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "337d97b990f76c91584b12600651ae7bd47a0824e45070b3d9330b0922149fc0"
+hash = "e9345014ab938c929447b4f426a184e479f071da7b3a73882624e8beaf092f01"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "816b735b2ad505476201800a99f527e61b392b712b9d20ca9edcce05f412fe87"
+hash = "5a16e8b17e0a78a409fc9e9c6eccc07b5569641ae201ffdc9600cb898e32b1e9"
 metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "c5103bd5c497d707072363d1bb994697a62774b8bc79ad5a8c3b33313f824948"
+hash = "baa7d65c931adc7b1befd939cdecf12bd789f62339dade5e235afe0940907890"
 metafile = true
 
 [[files]]
@@ -102,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "8f6e0157b42ba668c0ba9aa7eff94b3b91a8f58bcd357e574d70a7b160d4337c"
+hash = "a96558d4114019b01947a9ee8f128331a17c9ce94f9b25a2a5c39d3985e67043"
 metafile = true
 
 [[files]]
@@ -112,12 +120,12 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "8c7aec9e376eb3f10da62109594e1ac6b7bc92da8e9c080f8f8f5a736051f339"
+hash = "3f95565b06efcc49e90f200240666d15d9a56a2e99ba834c40e04ed665d68d05"
 metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "1a8d8865ba726baf4f953f30737257d78a7c3529795f0b76fa67b90ab5038555"
+hash = "cc284ef0dc8b750d5eef6b8c968ff875da2be78b936784d43c2d19c5ec5e745d"
 metafile = true
 
 [[files]]
@@ -147,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "ab6def9d98d3f5bf12f78845bdb770a19d5ca590c571e60184e537ffa14dcbee"
+hash = "f90c7332fd1a0b2eae94dabfe4794946ba015f40d0143b7ddbe584ac9e76cdae"
 metafile = true
 
 [[files]]
@@ -187,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/voxy-server-side.pw.toml"
-hash = "4acd4942e06c57ae9ef08f33d265a7460cc7b2d4035b553cd7857cf26122e6a4"
+hash = "c8c2912e9cd892f7d7c10694943e4a1229592a63ba15fe4ccf3796920bd21bae"
 metafile = true
 
 [[files]]
@@ -197,14 +205,10 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "1113d43c39a9866252a83ee50d16aa3ce6fcf749acd84d58b05ca09eba4d187b"
+hash = "4c1f9c2dd215d39639501bcf7e87927ea2307dc161a4f59000ab445ccc311f8d"
 metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "0d3405e537262b4afe76df6c9a884d1a7acbf5b6152109f4cc14b76a3551af7b"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "706782d86206f70bed22e0957a3a98189ee6aa98ebc22ac84922a8621ce05984"

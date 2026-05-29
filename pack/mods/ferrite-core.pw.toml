@@ -1,6 +1,6 @@
 name = "FerriteCore"
 filename = "ferritecore-8.2.0-fabric.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/uXXizFIs/versions/Ii0gP3D8/ferritecore-8.2.0-fabric.jar"

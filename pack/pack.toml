@@ -1,4 +1,4 @@
-name = "drydock"
+name = "Drydock Player"
 author = "muggel_potato"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "22dde6beb093f78a043aea04b43bedfbabd21966a94b549349feafb603ef67ac"
+hash = "253ae8591d7f2a37390f60f1116427f187e16785d1f3c5ee6c49a439e13d8629"
 
 [versions]
 fabric = "0.19.2"
