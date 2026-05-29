@@ -1,0 +1,9 @@
+hash-format = "sha256"
+
+[[files]]
+file = "options.txt"
+hash = "706782d86206f70bed22e0957a3a98189ee6aa98ebc22ac84922a8621ce05984"
+
+[[files]]
+file = "servers.dat"
+hash = "6428b2af37a2fb613c1244db26772fcd3f9310e72af4f1e86179ef6693a07c04"
