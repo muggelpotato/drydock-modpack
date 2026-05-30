@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/muggelpotato/drydock-modpack/blob/main/pack/icon.png" alt="Drydock logo" width="10%" height="10%">
+<img src="https://raw.githubusercontent.com/muggelpotato/drydock-modpack/main/pack/icon.png" alt="Drydock logo" width="10%" height="10%">
 
 # Drydock
 This repo is hosting a modpack for the boatracing server called "The Drydock"
