@@ -70,7 +70,7 @@ hash = "902b29e5f2044fa0011ac76281c700b52d83f1b5db6b605b8f702c8a99a55a2b"
 
 [[files]]
 file = "config/modpack_defaults/options.txt"
-hash = "3acac56176699c967d8dd1805584dea63e29e0a22c99bfeea64f699a7c70640c"
+hash = "c591813beec84796ab1b6be5cce38f78cdf0bd08f756fa6f80e42afe90b70578"
 
 [[files]]
 file = "config/modpack_defaults/servers.dat"
