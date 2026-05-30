@@ -13,8 +13,12 @@ file = "config/modpack_defaults/config/BBEConfig.json"
 hash = "e5f2ee57e9f9c0bd81af26c1918ceee988b3d726014c411f439406dc0fe60ef1"
 
 [[files]]
+file = "config/modpack_defaults/config/axiom/axiom.json"
+hash = "92f7372ce08b624bd80b9094aef703cddbc8608a1fce005bc75ea27735d2947e"
+
+[[files]]
 file = "config/modpack_defaults/config/cubes-without-borders.json"
-hash = "753ce2d58df451ce6f3018c8ee6a7e9457c7cc4fbefc2e1c5cc97f073c73ec77"
+hash = "8c36a14e788863589ce521cfa3b269de614403064381200053cb7a893f1f58d3"
 
 [[files]]
 file = "config/modpack_defaults/config/debugify.json"
@@ -53,6 +57,10 @@ file = "config/modpack_defaults/config/puzzle.json"
 hash = "4449fb9b3440c4367f861d0f8e75b879caf6c897cb47569f13929ca37d6c864d"
 
 [[files]]
+file = "config/modpack_defaults/config/roughlyenoughitems/config.json5"
+hash = "e38e8735b2f9d8ff0ed512ed24bc2675098102b17025382731a32302c6c01969"
+
+[[files]]
 file = "config/modpack_defaults/config/sodium-extra-options.json"
 hash = "6c02a3834146f91beeb4baa7a25abdfbbe7a9879ed53399465c17f7f61924801"
 
@@ -73,12 +81,26 @@ file = "config/modpack_defaults/options.txt"
 hash = "75817aee1f82bcb6fd91918dbe034453638b6bcea79a225f1e3f92a9d9f5d021"
 
 [[files]]
+file = "config/modpack_defaults/servers.dat"
+hash = "0cbe6dc5780d61f4c1d237b592e51c30994fd64c7ffb233ee8083cdc5bb3ea65"
+
+[[files]]
 file = "icon.png"
 hash = "4d8ccee71d35482e80d9fdd0b9f509c060e7a1ccb15a4300d9dd6b224fc61f94"
 
 [[files]]
 file = "mods/animatica.pw.toml"
 hash = "7749a788cd34e08e2280dc5e05db1bbf375d7a184d787f682f7df19709a754e3"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "ff1763afa21669a76a9ca65735944986ec4ef7a0d440b98ee2154aafa46356c8"
+metafile = true
+
+[[files]]
+file = "mods/axiom.pw.toml"
+hash = "c2411710d5a3ed705cc19f0442b5ecceba146910968c2b02af7080ea3ddfe33e"
 metafile = true
 
 [[files]]
@@ -217,6 +239,11 @@ hash = "e4b9192ce7f54715dde7eb682ebab23aaaac10658b1bd08ba553a5f99b0124d1"
 metafile = true
 
 [[files]]
+file = "mods/nbt-autocomplete.pw.toml"
+hash = "a60ccef90c959893aa4609f93ffbced0c77e92cb6e63e71c502f00e0056b9919"
+metafile = true
+
+[[files]]
 file = "mods/openboatutils.pw.toml"
 hash = "61ba46bc2c86bd2fa003d8adf022cf1e64045a06897089d5a7d92eb363f519e8"
 metafile = true
@@ -239,6 +266,11 @@ metafile = true
 [[files]]
 file = "mods/puzzle.pw.toml"
 hash = "3cbdb02ff4be022d7e0f9b82cd64a36669d5986d7ed3ddcf7bcdbacc0b1b4b2a"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "a62d7893eae9d5713dbe9c844b2bb9eba53157743c47b6e8abcbdd9075264cc9"
 metafile = true
 
 [[files]]
@@ -279,6 +311,21 @@ metafile = true
 [[files]]
 file = "mods/voxy.pw.toml"
 hash = "1b15aa249e728fe7af88899bfa08ca4a7a629b0f440750138f74a9b36c607292"
+metafile = true
+
+[[files]]
+file = "mods/worldedit-cui.pw.toml"
+hash = "bca2f6ad768019f80e6d3664917e06a3560037897110d9fa83ce7973501200d1"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "96af760f1cfeb1371b8be2989d63186e632372db6da09ed587b36f454721eeb8"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "79007fa65840c898bc18d75660fe987ac33cc8d9a2e4375818f6270332db097c"
 metafile = true
 
 [[files]]
