@@ -14,7 +14,7 @@ hash = "e5f2ee57e9f9c0bd81af26c1918ceee988b3d726014c411f439406dc0fe60ef1"
 
 [[files]]
 file = "config/modpack_defaults/config/cubes-without-borders.json"
-hash = "753ce2d58df451ce6f3018c8ee6a7e9457c7cc4fbefc2e1c5cc97f073c73ec77"
+hash = "8c36a14e788863589ce521cfa3b269de614403064381200053cb7a893f1f58d3"
 
 [[files]]
 file = "config/modpack_defaults/config/debugify.json"
@@ -70,7 +70,11 @@ hash = "902b29e5f2044fa0011ac76281c700b52d83f1b5db6b605b8f702c8a99a55a2b"
 
 [[files]]
 file = "config/modpack_defaults/options.txt"
-hash = "75817aee1f82bcb6fd91918dbe034453638b6bcea79a225f1e3f92a9d9f5d021"
+hash = "3acac56176699c967d8dd1805584dea63e29e0a22c99bfeea64f699a7c70640c"
+
+[[files]]
+file = "config/modpack_defaults/servers.dat"
+hash = "0cbe6dc5780d61f4c1d237b592e51c30994fd64c7ffb233ee8083cdc5bb3ea65"
 
 [[files]]
 file = "icon.png"

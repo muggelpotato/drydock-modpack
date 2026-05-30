@@ -6,6 +6,8 @@ entityShadows:false
 graphicsPreset:"custom"
 prioritizeChunkUpdates:0
 textureFiltering:0
+maxFps:240
+gamma:1
 mipmapLevels:2
 particles:1
 renderClouds:"fast"
@@ -21,6 +23,7 @@ onboardAccessibility:false
 operatorItemsTab:true
 resourcePacks:["vanilla","continuity:glass_pane_culling_fix","continuity:default"]
 incompatibleResourcePacks:[]
+textBackgroundOpacity:0.0
 skipMultiplayerWarning:true
 telemetryOptInExtra:false
 tutorialStep:none
@@ -42,3 +45,14 @@ rawMouseInput:true
 key_axiom.keybind.orbit_camera:key.mouse.5
 key_axiom.keybind.jump_to_block:key.mouse.4
 key_axiom.keybind.toggle_replace_mode_cap:key.keyboard.r
+soundCategory_master:0.20
+soundCategory_music:0.15
+soundCategory_record:0.80
+soundCategory_weather:1.0
+soundCategory_block:1.0
+soundCategory_hostile:0.05
+soundCategory_neutral:0.60
+soundCategory_player:1.0
+soundCategory_ambient:0.60
+soundCategory_voice:1.0
+soundCategory_ui:1.0
