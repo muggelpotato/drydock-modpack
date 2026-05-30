@@ -157,6 +157,11 @@ hash = "5a16e8b17e0a78a409fc9e9c6eccc07b5569641ae201ffdc9600cb898e32b1e9"
 metafile = true
 
 [[files]]
+file = "mods/flashback.pw.toml"
+hash = "b2c53aed3289306764df0306664a0dd896599ced6402a5024b6063f761e85505"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "baa7d65c931adc7b1befd939cdecf12bd789f62339dade5e235afe0940907890"
 metafile = true
@@ -259,6 +264,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "6747f2e71e6d9ae5b6c4aea899f6af5fbbb612aac8c9bbb45990463826af3398"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "fc9e8b3b78f2b454d260f7cefa26834a352e146cdcfd44a6637544df335087a1"
 metafile = true
 
 [[files]]
