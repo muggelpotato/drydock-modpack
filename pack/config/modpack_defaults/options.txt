@@ -45,6 +45,9 @@ rawMouseInput:true
 key_axiom.keybind.orbit_camera:key.mouse.5
 key_axiom.keybind.jump_to_block:key.mouse.4
 key_axiom.keybind.toggle_replace_mode_cap:key.keyboard.r
+key_key.simple_music_control.next_music_track:key.keyboard.period
+key_key.simple_music_control.toggle_music:key.keyboard.comma
+key_gui.xaero_quick_confirm:key.keyboard.unknown
 soundCategory_master:0.20
 soundCategory_music:0.15
 soundCategory_record:0.80
