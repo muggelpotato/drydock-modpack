@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/muggelpotato/drydock-modpack/blob/main/pack/icon.png" alt="FO logo" width="10%" height="10%">
+<img src="https://github.com/muggelpotato/drydock-modpack/blob/main/pack/icon.png" alt="Drydock logo" width="10%" height="10%">
 
 # Drydock
 This repo is hosting a modpack for the boatracing server called "The Drydock"
@@ -9,7 +9,7 @@ This repo is hosting a modpack for the boatracing server called "The Drydock"
 ## Flavors
 Drydock Player
 - Fabulosuly Optimized mods and configs
-- Mods and resourcepacks required for playing on the server
+- Mods and resourcepacks required to play on the server
 
 Drydock Builder
 - Inherits all of Drydock Player contents
