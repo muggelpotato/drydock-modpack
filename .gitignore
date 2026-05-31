@@ -2,3 +2,5 @@
 *.mrpack
 .packwiz/
 .antigravitycli/
+.env
+*.html
