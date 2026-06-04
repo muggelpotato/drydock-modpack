@@ -21,7 +21,7 @@ guiScale:3
 joinedFirstServer:true
 onboardAccessibility:false
 operatorItemsTab:true
-resourcePacks:["vanilla","continuity:glass_pane_culling_fix","continuity:default"]
+resourcePacks:["vanilla","continuity:glass_pane_culling_fix","continuity:default","file/drydock.zip"]
 incompatibleResourcePacks:[]
 textBackgroundOpacity:0.0
 skipMultiplayerWarning:true

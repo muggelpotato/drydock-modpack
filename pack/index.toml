@@ -78,7 +78,7 @@ hash = "902b29e5f2044fa0011ac76281c700b52d83f1b5db6b605b8f702c8a99a55a2b"
 
 [[files]]
 file = "config/modpack_defaults/options.txt"
-hash = "c591813beec84796ab1b6be5cce38f78cdf0bd08f756fa6f80e42afe90b70578"
+hash = "010af590b8dd371eb68d3c140555d9b5a2e59fea9e6cd5e29d1ea535988b6e2c"
 
 [[files]]
 file = "config/modpack_defaults/servers.dat"
@@ -337,3 +337,7 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "0d3405e537262b4afe76df6c9a884d1a7acbf5b6152109f4cc14b76a3551af7b"
 metafile = true
+
+[[files]]
+file = "resourcepacks/drydock.zip"
+hash = "e783ea43b78762ec2f3ddf7e6558217dc6e0496660d21f5ede8bb0be40c15cc4"
