@@ -52,7 +52,7 @@
               "type": 2,
               "style": 5,
               "label": "Player Modpack",
-              "url": "https://modrinth.com/modpack/builders-refuge",
+              "url": "https://modrinth.com/modpack/drydock-player",
               "emoji": {
                 "name": "modrinth",
                 "id": "1043183149821202492"
@@ -62,7 +62,7 @@
               "type": 2,
               "style": 5,
               "label": "Builder Modpack",
-              "url": "https://modrinth.com/modpack/builders-refuge",
+              "url": "https://modrinth.com/modpack/drydock-builder",
               "emoji": {
                 "name": "modrinth",
                 "id": "1043183149821202492"
@@ -84,7 +84,7 @@
               "type": 2,
               "style": 5,
               "label": "Resourcepack",
-              "url": "https://github.com/muggelpotato/bresourcepack",
+              "url": "https://github.com/muggelpotato/drydock-resourcepack",
               "emoji": {
                 "name": "github",
                 "id": "844330370995585064"
@@ -107,7 +107,7 @@
       "components": [
         {
           "type": 10,
-          "content": "### <a:chatting:867748415555239988> **Discord**\n- <#1505521137789177896> for server news\n- <#1218694464084901928> for showcasing pictures of your builds on the server\n- <#1217151251318575224> for chatting\n- <#1238566692028678237> for saving/sharing build references"
+          "content": "### <a:chatting:867748415555239988> **Discord**\n> <#1505521137789177896> for server news\n> <#1218694464084901928> for showcasing pictures of your builds on the server\n> <#1217151251318575224> for chatting\n> <#1238566692028678237> for saving/sharing build references"
         }
       ]
     },
@@ -162,7 +162,7 @@
             "type": 2,
             "style": 5,
             "label": "Open GitHub",
-            "url": "https://github.com/muggelpotato/bresourcepack"
+            "url": "https://github.com/muggelpotato/drydock-resourcepack"
           }
         },
         {
