@@ -95,12 +95,12 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "78e3d19fd8fa1fbbbb5e088d267e3ae008206c0b12013a4718d0c9e4f0f0ee19"
+hash = "5f3bbed5b6d4c4a3704a62cf6c1db2e07fb3fb2562351939aca0e4e87fa36b69"
 metafile = true
 
 [[files]]
 file = "mods/axiom.pw.toml"
-hash = "27f959d7bdca73bbee8bb1ed7116eb9a7b3f0e46ee1812c3139e2769318a6120"
+hash = "e0c78a0644ba61bd108441dff336047a9c16fdb19757e68ab21103b3690dade4"
 metafile = true
 
 [[files]]
@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "e3142471bd3b9040c7af1c610c613a89abb0163ccf2f35db604cefa5b5a22cd9"
+hash = "8106f79a7456c4b75226d6d201edd721dd10180de8456361bd9c86b4060cb22a"
 metafile = true
 
 [[files]]
@@ -300,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "fc9e8b3b78f2b454d260f7cefa26834a352e146cdcfd44a6637544df335087a1"
+hash = "8ee8677ec1e00cc5e555c57f5965c5a37be840a2e45ce669e5b624bf821ea071"
 metafile = true
 
 [[files]]
@@ -320,12 +320,12 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "96af760f1cfeb1371b8be2989d63186e632372db6da09ed587b36f454721eeb8"
+hash = "533b0831728c147da68219e20f5e4c9060a056dcbf1e33b9d6ca78d540bedbc3"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "4e15153b0d6cc1e5c9208b9f1b35056eb168462e7367873b080f2ac0f17dcf2d"
+hash = "17c22a77d32a2dd027f9e93e6af7dbe1d8c7e46ca825db5e7b6789b4b5a4028f"
 metafile = true
 
 [[files]]

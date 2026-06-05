@@ -9,6 +9,8 @@ if not exist "%BUILDS_DIR%" (
     mkdir "%BUILDS_DIR%"
 )
 
+python "%SCRIPT_DIR%scripts\enforce_client_side.py"
+
 pushd "%PACK_DIR%"
 packwiz refresh
 packwiz modrinth export
