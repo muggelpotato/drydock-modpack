@@ -12,7 +12,8 @@ if not exist "%BUILDS_DIR%" (
 python "%SCRIPT_DIR%scripts\enforce_client_side.py"
 
 pushd "%PACK_DIR%"
+packwiz update --all -y
 packwiz refresh
-packwiz modrinth export
+packwiz modrinth export | findstr /V /C:"added to manifest"
 move /y *.mrpack "%BUILDS_DIR%"
 popd
