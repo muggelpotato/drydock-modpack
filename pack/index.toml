@@ -6,11 +6,7 @@ hash = "e5f2ee57e9f9c0bd81af26c1918ceee988b3d726014c411f439406dc0fe60ef1"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "1b5a531f851effc2193ba479ac90cab19a79f72cd2c11f5d60aa227b57f490ff"
-
-[[files]]
-file = "config/modpack_defaults/config/BBEConfig.json"
-hash = "e5f2ee57e9f9c0bd81af26c1918ceee988b3d726014c411f439406dc0fe60ef1"
+hash = "a3bacfc307a074ca194f17b5b508ddfb371087c868e8dbc5455510d3cfca7c3c"
 
 [[files]]
 file = "config/modpack_defaults/config/axiom/axiom.json"
@@ -22,7 +18,7 @@ hash = "8c36a14e788863589ce521cfa3b269de614403064381200053cb7a893f1f58d3"
 
 [[files]]
 file = "config/modpack_defaults/config/debugify.json"
-hash = "a4e5e4cb8239c9e512aa4bf6e4655caead4ccc82c483dcaf0aff0405ce9cb1ea"
+hash = "0f225ab8423940db883938663ef73097674164e1f41aefc79b0179df0893d554"
 
 [[files]]
 file = "config/modpack_defaults/config/entity_texture_features.json"
@@ -30,7 +26,7 @@ hash = "6a3760d2b7828efc524976294cc6fd17f16bdda9d9827bd55f8fcd58ce724355"
 
 [[files]]
 file = "config/modpack_defaults/config/fabric_loader_dependencies.json"
-hash = "1b5a531f851effc2193ba479ac90cab19a79f72cd2c11f5d60aa227b57f490ff"
+hash = "a3bacfc307a074ca194f17b5b508ddfb371087c868e8dbc5455510d3cfca7c3c"
 
 [[files]]
 file = "config/modpack_defaults/config/iris.properties"
@@ -95,12 +91,12 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "5f3bbed5b6d4c4a3704a62cf6c1db2e07fb3fb2562351939aca0e4e87fa36b69"
+hash = "5da832ec39ba4af86cc40c9479316958655a4c8f1a79461d5b460613a5cf7bde"
 metafile = true
 
 [[files]]
 file = "mods/axiom.pw.toml"
-hash = "e0c78a0644ba61bd108441dff336047a9c16fdb19757e68ab21103b3690dade4"
+hash = "cb8aa853214769f3a6dd8ca7b193dadbaf500a664e6bcf3aa912d38478055b52"
 metafile = true
 
 [[files]]
@@ -269,8 +265,13 @@ hash = "3cbdb02ff4be022d7e0f9b82cd64a36669d5986d7ed3ddcf7bcdbacc0b1b4b2a"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "565c943b5006c36137a2fe55e4b8433e134c3d1011a37c5f5124cee67b671cb8"
+metafile = true
+
+[[files]]
 file = "mods/rei.pw.toml"
-hash = "bc8498a0352f06401e9a93483c811183d730266c2e7a8d24eb5a4f056c5843f4"
+hash = "62ccf11f2f129b853bf5e74459a22bd45f53adb33529a914c84851c8851a923e"
 metafile = true
 
 [[files]]
@@ -295,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "6fa3b94539d3b97477b160d3b552eae3945445cdc0dd243898d4316977e2ad43"
+hash = "5fe772e112c8f842575502dd4525e8ca309b6645f430fd4a1edee52483b93b55"
 metafile = true
 
 [[files]]
@@ -320,12 +321,12 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "533b0831728c147da68219e20f5e4c9060a056dcbf1e33b9d6ca78d540bedbc3"
+hash = "15eb3ffaae78a1b91fc592da0a86e477d5a10ce6f15ae4786f250ddf85085be3"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "be9e5efde140c61b1b0c433f9533b62f35646d2ac7b4f232c2c174f89f551c13"
+hash = "b9620b02126a68673012b0954b76726b6fc7ad95b346fc4ffe0f6fb96132943b"
 metafile = true
 
 [[files]]
