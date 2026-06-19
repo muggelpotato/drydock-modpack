@@ -6,7 +6,7 @@ hash = "e5f2ee57e9f9c0bd81af26c1918ceee988b3d726014c411f439406dc0fe60ef1"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "1b5a531f851effc2193ba479ac90cab19a79f72cd2c11f5d60aa227b57f490ff"
+hash = "a3bacfc307a074ca194f17b5b508ddfb371087c868e8dbc5455510d3cfca7c3c"
 
 [[files]]
 file = "config/modpack_defaults/config/cubes-without-borders.json"
@@ -22,7 +22,7 @@ hash = "6a3760d2b7828efc524976294cc6fd17f16bdda9d9827bd55f8fcd58ce724355"
 
 [[files]]
 file = "config/modpack_defaults/config/fabric_loader_dependencies.json"
-hash = "7aa15025d8d944148bd848948f7ec3598d47a1a73a96d2169e3230f4c7ec0bed"
+hash = "a3bacfc307a074ca194f17b5b508ddfb371087c868e8dbc5455510d3cfca7c3c"
 
 [[files]]
 file = "config/modpack_defaults/config/iris.properties"
@@ -242,6 +242,11 @@ hash = "3cbdb02ff4be022d7e0f9b82cd64a36669d5986d7ed3ddcf7bcdbacc0b1b4b2a"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "565c943b5006c36137a2fe55e4b8433e134c3d1011a37c5f5124cee67b671cb8"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "a17a9c598d984e4ff28d0945dd0e8bf94b3125b1d669226b4ad736543dacef3f"
 metafile = true
@@ -263,7 +268,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "9404aa71aa027cac3e354b8d3e8c05f6fa2defe7ced3d99cbdfbb5a35627c15b"
+hash = "d023b1aa1b6df642d0f1a4c99b067ccf3688efbea769f04a8d276f47ee0915b6"
 metafile = true
 
 [[files]]
